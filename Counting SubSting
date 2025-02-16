@@ -1,8 +1,0 @@
-def count_substring_occurrences(string, substring):
-    return string.count(substring)
-
-# Example usage
-string = "the quick brown fox jumped over the fox"
-substring = "fox"
-count = count_substring_occurrences(string, substring)
-print(count)
